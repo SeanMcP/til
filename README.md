@@ -2,6 +2,12 @@
 
 A running log of the things I learn in reverse chronological order.
 
+## 2019
+
+### January
+
+07 - The `FileList` object is used by `<input type="file" />` to handle uploaded files. You can access individual files by their index, but [`FileList` is **read only**](https://developer.mozilla.org/en-US/docs/Web/API/FileList).
+
 ## 2018
 
 ### September
